@@ -10,8 +10,8 @@ const styles = StyleSheet.create({
   },
 });
 
-export const Inbox = () => (
+export const Next = () => (
   <View style={styles.container}>
-    <Text>Inbox</Text>
+    <Text>Next Actions</Text>
   </View>
 );

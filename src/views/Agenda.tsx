@@ -10,8 +10,8 @@ const styles = StyleSheet.create({
   },
 });
 
-export const Inbox = () => (
+export const Agenda = () => (
   <View style={styles.container}>
-    <Text>Inbox</Text>
+    <Text>Agenda</Text>
   </View>
 );
